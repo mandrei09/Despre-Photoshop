@@ -31,6 +31,3 @@ If you want to show the people a cool edit you made🔥, it can be posted on sec
 The last section, **"Coming soon"** tells people that the site will be updated, and that new sections will be added in the shortest time.
 
 ![image](https://user-images.githubusercontent.com/95626494/221923736-0a96b641-a9aa-4deb-915f-f12148802103.png)
-
-
-
